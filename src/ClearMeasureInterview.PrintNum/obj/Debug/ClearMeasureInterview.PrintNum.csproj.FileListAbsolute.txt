@@ -1,0 +1,16 @@
+C:\Projects\ClearMeasureInterview\ClearMeasureInterview.PrintNum\bin\Debug\ClearMeasureInterview.PrintNum.exe.config
+C:\Projects\ClearMeasureInterview\ClearMeasureInterview.PrintNum\bin\Debug\ClearMeasureInterview.PrintNum.exe
+C:\Projects\ClearMeasureInterview\ClearMeasureInterview.PrintNum\bin\Debug\ClearMeasureInterview.PrintNum.pdb
+C:\Projects\ClearMeasureInterview\ClearMeasureInterview.PrintNum\obj\Debug\ClearMeasureInterview.PrintNum.csprojResolveAssemblyReference.cache
+C:\Projects\ClearMeasureInterview\ClearMeasureInterview.PrintNum\obj\Debug\ClearMeasureInterview.PrintNum.exe
+C:\Projects\ClearMeasureInterview\ClearMeasureInterview.PrintNum\obj\Debug\ClearMeasureInterview.PrintNum.pdb
+C:\Projects\ClearMeasureInterview\ClearMeasureInterview.PrintNum\bin\Debug\ClearMeasureInterview.PrintNumLib.dll
+C:\Projects\ClearMeasureInterview\ClearMeasureInterview.PrintNum\bin\Debug\ClearMeasureInterview.PrintNumLib.pdb
+C:\Users\Work\Desktop\ClearMeasureInterview\src\ClearMeasureInterview.PrintNum\bin\Debug\ClearMeasureInterview.PrintNum.exe.config
+C:\Users\Work\Desktop\ClearMeasureInterview\src\ClearMeasureInterview.PrintNum\obj\Debug\ClearMeasureInterview.PrintNum.exe
+C:\Users\Work\Desktop\ClearMeasureInterview\src\ClearMeasureInterview.PrintNum\obj\Debug\ClearMeasureInterview.PrintNum.pdb
+C:\Users\Work\Desktop\ClearMeasureInterview\src\ClearMeasureInterview.PrintNum\bin\Debug\ClearMeasureInterview.PrintNum.exe
+C:\Users\Work\Desktop\ClearMeasureInterview\src\ClearMeasureInterview.PrintNum\bin\Debug\ClearMeasureInterview.PrintNum.pdb
+C:\Users\Work\Desktop\ClearMeasureInterview\src\ClearMeasureInterview.PrintNum\bin\Debug\ClearMeasureInterview.PrintNumLib.dll
+C:\Users\Work\Desktop\ClearMeasureInterview\src\ClearMeasureInterview.PrintNum\bin\Debug\ClearMeasureInterview.PrintNumLib.pdb
+C:\Users\Work\Desktop\ClearMeasureInterview\src\ClearMeasureInterview.PrintNum\obj\Debug\ClearMeasureInterview.PrintNum.csprojResolveAssemblyReference.cache
